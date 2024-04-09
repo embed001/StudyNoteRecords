@@ -11,6 +11,7 @@ This space is used for personal study notes record,including:
 10. Basic programming skills, Java, Python, C.
 11. Linux kernel, Linux device driver development.
 12. Industry knowledge:Finance, Gernment,Telecommunication,Energy,Education,Medical.
+    
 I will try my best to record the study progress, share it with all of us.
 Come on, move forward!
 Luis, 2024.04.09, @Shenzhen
